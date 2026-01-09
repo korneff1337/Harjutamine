@@ -1,2 +1,5 @@
 Tulevikus saan GitHubi kasutada koolitööde ja projektide haldamiseks.
 See aitab mul jälgida muudatusi ja töötada meeskonnas.
+
+GitHub Inc. asutati 2008. aastal.
+GitHubi teenus muutus avalikult kättesaadavaks samal aastal.
