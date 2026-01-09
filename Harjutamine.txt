@@ -1,6 +1,2 @@
-GitHub on veebipõhine versioonihalduse platvorm.
-Seda kasutavad arendajad üle maailma.
-Nagu näiteks: Programmeerijad, rakenduste autorid jne.
-
 Tulevikus saan GitHubi kasutada koolitööde ja projektide haldamiseks.
 See aitab mul jälgida muudatusi ja töötada meeskonnas.
