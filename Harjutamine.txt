@@ -3,3 +3,7 @@ See aitab mul jälgida muudatusi ja töötada meeskonnas.
 
 GitHub Inc. asutati 2008. aastal.
 GitHubi teenus muutus avalikult kättesaadavaks samal aastal.
+
+GitHub on veebipõhine versioonihalduse platvorm.
+Seda kasutavad arendajad üle maailma.
+Nagu näiteks: Programmeerijad, rakenduste autorid jne.
